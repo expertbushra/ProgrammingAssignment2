@@ -1,3 +1,6 @@
+## JHU Coursera R Programming Week 3 - Assignment #2
+## March 2018
+## author: Bushra Waheed 
 ## Caching the Inverse of a Matrix
 ## Matrix inversion is usually a costly computation and there may be some benefit to caching the inverse of a matrix rather 
 ## rather than compute it repeatedly. 
